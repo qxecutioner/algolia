@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7w45SEUaAD0JSkIJJGQrmsiCNat/xU5/b+CDa/bGJQF++q+RaTlmW+xXlIt+oi64ug7VOkkz5SxszuGRVzWeg==",
+  "success": true,
+  "projectFilePath": "/home/jithin/Development/Algolia/Algolia/Algolia.csproj",
+  "expectedPackageFiles": [
+    "/home/jithin/.nuget/packages/algolia.search/6.12.1/algolia.search.6.12.1.nupkg.sha512",
+    "/home/jithin/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/jithin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/jithin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/jithin/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/jithin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/jithin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/jithin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
